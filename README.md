@@ -12,4 +12,4 @@ and find one used seed ;)
 
 ## More information
 If you what more detail about IOTA Lottery this code is asociated to 
-this post: [IOTA aprendiendo a programar con su API Python]()
+this post: [Hacking de semillas en la criptomoneda IOTA](https://mirojoblog.blogspot.com.es/2018/02/hacking-de-semillas-en-la-criptomoneda.html)
